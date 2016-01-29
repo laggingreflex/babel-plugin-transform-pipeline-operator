@@ -9,7 +9,7 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "babel-plugin-syntax-pipeline-operator": "^6.3.13",
+    "babel-plugin-syntax-pipeline-operator": "git+https://git@github.com/mrapogee/babel-plugin-syntax-pipeline-operator.git",
     "babel-runtime": "^5.0.0"
   },
   "devDependencies": {
