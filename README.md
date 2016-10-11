@@ -1,3 +1,5 @@
+# NOTE: This is NOT functional
+
 # babel-plugin-transform-pipeline-operator
 
 Compile pipeline operator `|>` usage to ES5. See [the ES.next proposal](https://github.com/mindeavor/es-pipeline-operator) for details.
