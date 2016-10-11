@@ -5,7 +5,7 @@ Compile pipeline operator `|>` usage to ES5. See [the ES.next proposal](https://
 ## Installation
 
 ```sh
-$ npm install babel-plugin-transform-pipeline-operator
+$ npm install --save-dev babel-plugin-transform-pipeline-operator
 ```
 
 ## Usage
